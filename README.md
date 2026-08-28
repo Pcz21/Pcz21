@@ -1,60 +1,60 @@
-# 👋 Olá, eu sou Paulo Cezar!
+# 👋 Hello, I'm Paulo Cezar!
 
-💻 **Desenvolvedor de Software | C#/.NET | APIs REST | SQL Server | Next.js**
+💻 **Software Developer | C#/.NET | REST APIs | SQL Server | Next.js**
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor de software com foco em **Backend, APIs e aplicações web**.
+I'm an **Analysis and Systems Development** student and a software developer focused on **Backend, APIs, and web applications**.
 
-Atualmente estou aprofundando meus conhecimentos em **C#/.NET, ASP.NET Core, APIs REST, SQL Server, arquitetura de aplicações, Cloud e Inteligência Artificial**, sempre buscando aprender através da construção de projetos reais.
-
----
-
-## 🚀 Sobre mim
-
-* 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-* 💻 Foco em **Desenvolvimento Backend e Full Stack**
-* 🔹 Desenvolvimento de **APIs REST com C# e ASP.NET Core**
-* 🗄️ Desenvolvimento e integração com **SQL Server**
-* ⚛️ Desenvolvimento de interfaces com **React e Next.js**
-* 🏗️ Experiência prática com aplicações web completas
-* ☁️ Estudando **Cloud, infraestrutura e DevOps**
-* 🤖 Explorando aplicações de **Inteligência Artificial no desenvolvimento**
-* 📚 Aprendizado baseado em **projetos práticos e problemas reais**
+I'm currently deepening my knowledge of **C#/.NET, ASP.NET Core, REST APIs, SQL Server, software architecture, Cloud, and Artificial Intelligence**, always learning through the development of real-world projects.
 
 ---
 
-## 🛠️ Tecnologias
+## 🚀 About Me
+
+* 🎓 **Analysis and Systems Development** student
+* 💻 Focused on **Backend and Full-Stack Development**
+* 🔹 Building **REST APIs with C# and ASP.NET Core**
+* 🗄️ Working with **SQL Server** and database integration
+* ⚛️ Building web interfaces with **React and Next.js**
+* 🏗️ Hands-on experience developing complete web applications
+* ☁️ Currently studying **Cloud, Infrastructure, and DevOps**
+* 🤖 Exploring **Artificial Intelligence applied to software development**
+* 📚 Learning through **practical projects and real-world problems**
+
+---
+
+## 🛠️ Technologies
 
 ### Backend
 
-`C#` `ASP.NET Core` `API REST`
+`C#` `ASP.NET Core` `REST APIs`
 
 ### Frontend
 
 `Next.js` `React` `TypeScript` `JavaScript` `HTML` `CSS` `Tailwind CSS`
 
-### Banco de Dados
+### Database
 
 `SQL Server` `SQL`
 
-### Infraestrutura & Ferramentas
+### Infrastructure & Tools
 
 `Linux` `Nginx` `VPS` `Cloudflare` `HTTPS/SSL` `Git` `GitHub` `JetBrains Rider`
 
-### Também estudando
+### Currently Learning
 
-`Cloud` `DevOps` `Arquitetura de Software` `Inteligência Artificial`
+`Cloud` `DevOps` `Software Architecture` `Artificial Intelligence`
 
 ---
 
-# 📌 Projetos
+# 📌 Projects
 
 ## 🏠 Fabiju Imóveis
 
-**Sistema web imobiliário completo**, desenvolvido para gerenciamento e divulgação de imóveis.
+**Full-stack real estate web application** developed for property management and real estate listings.
 
-O projeto evoluiu de um simples site para uma aplicação com **frontend, backend, banco de dados e infraestrutura própria**.
+The project evolved from a simple website into a complete application with its own **frontend, backend, database, and infrastructure**.
 
-### ⚙️ Tecnologias
+### ⚙️ Technologies
 
 **Frontend**
 
@@ -62,31 +62,31 @@ O projeto evoluiu de um simples site para uma aplicação com **frontend, backen
 
 **Backend**
 
-`C#` `ASP.NET Core` `API REST`
+`C#` `ASP.NET Core` `REST API`
 
-**Banco de Dados**
+**Database**
 
 `SQL Server` `SQL`
 
-**Infraestrutura**
+**Infrastructure**
 
 `Linux` `VPS` `Nginx` `Cloudflare` `HTTPS/SSL`
 
-### 🚀 Principais funcionalidades
+### 🚀 Main Features
 
-* 🔐 Sistema de autenticação
-* 👤 Painel administrativo
-* 🏠 Cadastro, edição e exclusão de imóveis
-* 📸 Upload de fotos e vídeos
-* ❤️ Sistema de favoritos
-* 👁️ Contador de visualizações
-* 📍 Integração com mapas
-* 📱 Integração com WhatsApp
-* 🔎 SEO e sitemap
-* 🛡️ Proteção de rotas
-* 🔄 Comunicação entre frontend, API e banco de dados
+* 🔐 Authentication system
+* 👤 Administrative dashboard
+* 🏠 Property creation, editing, and management
+* 📸 Image and video uploads
+* ❤️ Favorites system
+* 👁️ Property view counter
+* 📍 Map integration
+* 📱 WhatsApp integration
+* 🔎 SEO and sitemap
+* 🛡️ Route protection
+* 🔄 Communication between frontend, API, and database
 
-### 🏗️ Arquitetura
+### 🏗️ Architecture
 
 ```text
 Next.js
@@ -96,27 +96,27 @@ ASP.NET Core Web API
 SQL Server
 ```
 
-### 🌐 Projeto
+### 🌐 Live Project
 
 https://www.fabijuimoveis.com.br
 
 ---
 
-## 💰 Controle de Gastos Familiares
+## 💰 Family Expense Tracker
 
-Aplicação desenvolvida para organização e acompanhamento de **receitas e despesas**, transformando uma necessidade real em uma solução digital.
+Application developed to organize and track **income and expenses**, turning a real-world need into a digital solution.
 
-O projeto também é utilizado como ambiente de estudo para aplicação de conceitos de **Backend, APIs, banco de dados e arquitetura de software**.
+The project is also being used as a learning environment to apply concepts related to **Backend development, APIs, databases, and software architecture**.
 
-### 🔧 Tecnologias
+### 🔧 Technologies
 
 `C#` `ASP.NET Core` `SQL Server` `React`
 
-🚧 **Em desenvolvimento**
+🚧 **In Development**
 
 ---
 
-# 📊 GitHub
+# 📊 GitHub Stats
 
 <div align="center">
 
@@ -128,13 +128,21 @@ O projeto também é utilizado como ambiente de estudo para aplicação de conce
 
 ---
 
-# 🌐 Onde me encontrar
+# 🌎 Languages
+
+* 🇺🇸 **English:** Currently studying — focused on conversational English and technical English for technology
+* 🇪🇸 **Spanish:** Basic
+* 🇧🇷 **Portuguese:** Native
+
+---
+
+# 🌐 Connect With Me
 
 💼 **LinkedIn**
 
 https://www.linkedin.com/in/paulo-cezar-silva-dos-santos-836455276/
 
-🌐 **Portfólio**
+🌐 **Portfolio**
 
 https://pcz-sites.vercel.app
 
@@ -150,11 +158,6 @@ https://github.com/Pcz21
 
 <div align="center">
 
-   ## 🌎 Idiomas
-
-- 🇺🇸 **Inglês:** estudando — foco em conversação e inglês técnico para tecnologia
-- 🇪🇸 **Espanhol:** básico
-- 🇧🇷 **Português:** nativo
-### 🚀 Construindo projetos reais, aprendendo continuamente e evoluindo como desenvolvedor.
+### 🚀 Building real-world projects, learning continuously, and growing as a software developer.
 
 </div>
