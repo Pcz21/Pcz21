@@ -1,23 +1,24 @@
-#  Olá, eu sou Paulo Cezar!
+# 👋 Olá, eu sou Paulo Cezar!
 
- **Desenvolvedor de Software | C#/.NET | APIs | SQL | IA**
+💻 **Desenvolvedor de Software | C#/.NET | APIs REST | SQL Server | Next.js**
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor focado na construção de aplicações web, APIs e sistemas utilizando tecnologias modernas.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor de software com foco em **Backend, APIs e aplicações web**.
 
-Atualmente estou aprofundando meus conhecimentos em **C#/.NET, desenvolvimento de APIs, bancos de dados, Cloud e Inteligência Artificial**, buscando transformar problemas reais em soluções de software.
+Atualmente estou aprofundando meus conhecimentos em **C#/.NET, ASP.NET Core, APIs REST, SQL Server, arquitetura de aplicações, Cloud e Inteligência Artificial**, sempre buscando aprender através da construção de projetos reais.
 
 ---
 
-##  Sobre mim
+## 🚀 Sobre mim
 
 * 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-* 💻 Focado em **Desenvolvimento Backend**
-* 🔹 Desenvolvimento de APIs REST com **ASP.NET Core**
-* 🗄️ Experiência com **SQL Server e Supabase**
-* ⚛️ Conhecimentos em **React e Next.js**
-* 🤖 Interesse em **IA aplicada ao desenvolvimento de software**
-* ☁️ Estudando **Cloud e DevOps**
-* 📚 Sempre buscando evoluir através de projetos práticos
+* 💻 Foco em **Desenvolvimento Backend e Full Stack**
+* 🔹 Desenvolvimento de **APIs REST com C# e ASP.NET Core**
+* 🗄️ Desenvolvimento e integração com **SQL Server**
+* ⚛️ Desenvolvimento de interfaces com **React e Next.js**
+* 🏗️ Experiência prática com aplicações web completas
+* ☁️ Estudando **Cloud, infraestrutura e DevOps**
+* 🤖 Explorando aplicações de **Inteligência Artificial no desenvolvimento**
+* 📚 Aprendizado baseado em **projetos práticos e problemas reais**
 
 ---
 
@@ -25,76 +26,130 @@ Atualmente estou aprofundando meus conhecimentos em **C#/.NET, desenvolvimento d
 
 ### Backend
 
-`C#` `ASP.NET Core` `Node.js` `REST APIs`
+`C#` `ASP.NET Core` `API REST`
 
 ### Frontend
 
-`HTML` `CSS` `JavaScript` `TypeScript` `React` `Next.js` `Tailwind CSS`
+`Next.js` `React` `TypeScript` `JavaScript` `HTML` `CSS` `Tailwind CSS`
 
 ### Banco de Dados
 
-`SQL Server` `Supabase` `SQL`
+`SQL Server` `SQL`
 
-### Ferramentas & Cloud
+### Infraestrutura & Ferramentas
 
-`Git` `GitHub` `Vercel` `Visual Studio` `Rider`
+`Linux` `Nginx` `VPS` `Cloudflare` `HTTPS/SSL` `Git` `GitHub` `JetBrains Rider`
 
-### Atualmente estudando
+### Também estudando
 
-`Cloud` `DevOps` `Inteligência Artificial` `Arquitetura de Software`
-
----
-
-## 📌 Projetos
-
-### 🏠 Fabiju Imóveis
-
-Sistema web desenvolvido para gerenciamento e divulgação de imóveis.
-
-**Tecnologias:**
-`Next.js` `React` `JavaScript` `Supabase`
-
-🌐 **Projeto:** https://fabijuimoveis.com.br
+`Cloud` `DevOps` `Arquitetura de Software` `Inteligência Artificial`
 
 ---
 
-### 💰 Controle de Gastos Familiares
+# 📌 Projetos
 
-Aplicação voltada para organização e acompanhamento de receitas e despesas, com foco em transformar uma necessidade real em uma solução digital.
+## 🏠 Fabiju Imóveis
 
-**Em desenvolvimento**
+**Sistema web imobiliário completo**, desenvolvido para gerenciamento e divulgação de imóveis.
 
-**Tecnologias:**
+O projeto evoluiu de um simples site para uma aplicação com **frontend, backend, banco de dados e infraestrutura própria**.
+
+### ⚙️ Tecnologias
+
+**Frontend**
+
+`Next.js` `React` `TypeScript` `JavaScript` `HTML` `CSS` `Tailwind CSS`
+
+**Backend**
+
+`C#` `ASP.NET Core` `API REST`
+
+**Banco de Dados**
+
+`SQL Server` `SQL`
+
+**Infraestrutura**
+
+`Linux` `VPS` `Nginx` `Cloudflare` `HTTPS/SSL`
+
+### 🚀 Principais funcionalidades
+
+* 🔐 Sistema de autenticação
+* 👤 Painel administrativo
+* 🏠 Cadastro, edição e exclusão de imóveis
+* 📸 Upload de fotos e vídeos
+* ❤️ Sistema de favoritos
+* 👁️ Contador de visualizações
+* 📍 Integração com mapas
+* 📱 Integração com WhatsApp
+* 🔎 SEO e sitemap
+* 🛡️ Proteção de rotas
+* 🔄 Comunicação entre frontend, API e banco de dados
+
+### 🏗️ Arquitetura
+
+```text
+Next.js
+   ↓
+ASP.NET Core Web API
+   ↓
+SQL Server
+```
+
+### 🌐 Projeto
+
+https://www.fabijuimoveis.com.br
+
+---
+
+## 💰 Controle de Gastos Familiares
+
+Aplicação desenvolvida para organização e acompanhamento de **receitas e despesas**, transformando uma necessidade real em uma solução digital.
+
+O projeto também é utilizado como ambiente de estudo para aplicação de conceitos de **Backend, APIs, banco de dados e arquitetura de software**.
+
+### 🔧 Tecnologias
+
 `C#` `ASP.NET Core` `SQL Server` `React`
 
+🚧 **Em desenvolvimento**
+
 ---
 
-## 📊 GitHub
+# 📊 GitHub
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pcz21\&show_icons=true\&theme=tokyonight\&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pcz21&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pcz21\&layout=compact\&theme=tokyonight\&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pcz21&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🌐 Onde me encontrar
+# 🌐 Onde me encontrar
 
-💼 **LinkedIn:**
+💼 **LinkedIn**
+
 https://www.linkedin.com/in/paulo-cezar-silva-dos-santos-836455276/
 
-🌐 **Portfólio:**
+🌐 **Portfólio**
+
 https://pcz-sites.vercel.app
 
-💻 **GitHub:**
+💻 **GitHub**
+
 https://github.com/Pcz21
 
-📧 **Email:**
+📧 **Email**
+
 [paulo.cezar.santos2006@gmail.com](mailto:paulo.cezar.santos2006@gmail.com)
 
 ---
 
-> 💡 *"Construindo soluções, aprendendo todos os dias e evoluindo como desenvolvedor."*
+<div align="center">
+
+### 🚀 Construindo projetos reais, aprendendo continuamente e evoluindo como desenvolvedor.
+
+</div>
