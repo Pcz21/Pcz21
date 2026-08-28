@@ -150,6 +150,11 @@ https://github.com/Pcz21
 
 <div align="center">
 
+   ## 🌎 Idiomas
+
+- 🇺🇸 **Inglês:** estudando — foco em conversação e inglês técnico para tecnologia
+- 🇪🇸 **Espanhol:** básico
+- 🇧🇷 **Português:** nativo
 ### 🚀 Construindo projetos reais, aprendendo continuamente e evoluindo como desenvolvedor.
 
 </div>
